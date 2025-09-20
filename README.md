@@ -33,6 +33,8 @@ Maximum Drawdown: -33.68%
 
 The strategy didn’t beat just holding the S&P 500, but it was good practice and learning experience.
 
+In the future I could implement a stop loss to minimize losses and I could try different SMA lengths or use other indicators such as RSI and MACD.
+
 ---
 
 ## Requirements
