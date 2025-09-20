@@ -23,7 +23,12 @@ It also compares how the strategy would do versus just buying and holding SPY.
 
 <img width="1344" height="629" alt="Figure_2" src="https://github.com/user-attachments/assets/7aba07f5-24ef-42d3-bbf8-7261669b9a27" />
 
-The strategy didn’t beat just holding the S&P 500, but it was good practice and I learned a lot.
+Total Return: 243.90%
+Annualized Return (CAGR): 8.18%
+Sharpe Ratio: 0.62
+Maximum Drawdown: -33.68%
+
+The strategy didn’t beat just holding the S&P 500, but it was good practice and learning experience.
 
 ---
 
